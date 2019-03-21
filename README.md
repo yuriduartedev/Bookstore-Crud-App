@@ -1,7 +1,7 @@
-## I wrote an article in a tutorial format in the medium on how to implement this application from scratch, it is in the link below:
+# BookStore
+## App Building Guide:
  * https://medium.com/@yuriduarte314/construindo-uma-aplica%C3%A7%C3%A3o-simples-com-elixir-e-phoenix-5368f385d0c4
 
-# BookStore
 
 To start your Phoenix server:
 
